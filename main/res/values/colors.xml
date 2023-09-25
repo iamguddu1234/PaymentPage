@@ -22,7 +22,9 @@
     <color name="borderColor">#D3D3D3</color>
     <color name="deepTextColor">#1b1e24</color>
     <color name="lightTextColor">#5e5d5d</color>
-    <color name="themeColor">#207ef5</color>
+
+
+    <color name="themeColor">#224c98</color>
 
     <color name="themeColorTint">#E3E9F2</color>
 

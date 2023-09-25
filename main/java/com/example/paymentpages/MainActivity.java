@@ -19,4 +19,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intenta);
 
     }
+
+    public void goBillingPage(View view) {
+        Intent intent = new Intent(MainActivity.this, BillingPage.class);
+        startActivity(intent);
+    }
 }
